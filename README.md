@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Upwork🥳🥳
 - 🌱 I’m currently learning about PWA.
 - 💬 Ask me about Javascript, Web Development.
-- 
+
 
 
 
